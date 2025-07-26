@@ -1,5 +1,31 @@
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJwNjI1azN3bnM3M29qbnk1bXdzcXhjbHc1NG1naGlwYXkwaWRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvJcOd17t9BkKdwtWQ/giphy.gif" width="30px" height="30px"/>I'm Nastya
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRxZWs0Mzl4dGxnbXhmN2ExbmxqM2VvM21kZng2d2NkMnVpb3hzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TqkMHCSNijVMcCE7tG/giphy.gif" height="20px"> computer science student <br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRxZWs0Mzl4dGxnbXhmN2ExbmxqM2VvM21kZng2d2NkMnVpb3hzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TqkMHCSNijVMcCE7tG/giphy.gif" height="20px"> love to build shit  <br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRxZWs0Mzl4dGxnbXhmN2ExbmxqM2VvM21kZng2d2NkMnVpb3hzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TqkMHCSNijVMcCE7tG/giphy.gif" height="20px"> ux matters more than idea <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anastasiamorozz&show_icons=true&locale=en&layout=compact" alt="anastasiamorozz" /></p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ4NXg5YWFhbDVmbWkwZ2x1ZTFvNzk5YzQwbWYyYzcxYWN4cmxuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasiamorozz&" alt="anastasiamorozz" /></p>
+#### Languages:
+```json
+["TypeScript", "JavaScript", "C++", "Python"]
+```
+
+#### Front-end:
+```json
+["Next", "React", "Angular", "Tailwind"]
+```
+
+#### Back-end:
+```json
+["Nest", "Mongo", "Postgres", "Redis"]
+```
+
+#### Other tools:
+```json
+["Docker", "OAuth API", "LLM API", "Websocket"]
+```
+
+#### Socials
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ra1nwll)
