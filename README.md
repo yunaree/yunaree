@@ -54,9 +54,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=172BF4)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=CB3837)
 ![Yarn](https://img.shields.io/badge/-Yarn-090909?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
@@ -66,5 +64,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ra1nwll)
 [![Spotify](https://img.shields.io/badge/-Spotify-090909?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31xur6pxa3ufn3uxmcl72zp5fogy?si=444479fd3ded4e61)
 
-
+![imd](https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png)
 
