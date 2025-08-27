@@ -23,10 +23,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Kyiv
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, c#, java
           plugin_languages_limit: 6
           plugin_followup: yes
           plugin_stars: yes
-
+          plugin_recent_activity: yes
+          plugin_featured_repositories: yes
           
  
