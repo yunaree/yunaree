@@ -1,11 +1,12 @@
-![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN6Mml6ZmkwOHJhcXpiYTAyNzNsZW15a2F4MWxrNG9yYmZ3anpheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k22S4De372LQf6/giphy.gif)
+<!--![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN6Mml6ZmkwOHJhcXpiYTAyNzNsZW15a2F4MWxrNG9yYmZ3anpheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k22S4De372LQf6/giphy.gif)-->
 
 
 [![wakatime](https://wakatime.com/badge/user/f8540ed9-647a-49fb-97a9-06869ea0a37d.svg)](https://wakatime.com/@f8540ed9-647a-49fb-97a9-06869ea0a37d)
 [![Codewars](https://www.codewars.com/users/pollodrax/badges/micro)](https://www.codewars.com/users/pollodrax)
 
+![Metrics](./github-metrics.svg)
 
-## ʟᴀɴɢᴜᴀɢᴇꜱ
+<!--## ʟᴀɴɢᴜᴀɢᴇꜱ
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=2D79C7)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -64,5 +65,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ra1nwll)
 [![Spotify](https://img.shields.io/badge/-Spotify-090909?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31xur6pxa3ufn3uxmcl72zp5fogy?si=444479fd3ded4e61)
 
-![imd](https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png)
+![imd](https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png)-->
 
