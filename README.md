@@ -1,8 +1,8 @@
 <!--![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN6Mml6ZmkwOHJhcXpiYTAyNzNsZW15a2F4MWxrNG9yYmZ3anpheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k22S4De372LQf6/giphy.gif)-->
 
 
-[![wakatime](https://wakatime.com/badge/user/f8540ed9-647a-49fb-97a9-06869ea0a37d.svg)](https://wakatime.com/@f8540ed9-647a-49fb-97a9-06869ea0a37d)
-[![Codewars](https://www.codewars.com/users/pollodrax/badges/micro)](https://www.codewars.com/users/pollodrax)
+<!--[![wakatime](https://wakatime.com/badge/user/f8540ed9-647a-49fb-97a9-06869ea0a37d.svg)](https://wakatime.com/@f8540ed9-647a-49fb-97a9-06869ea0a37d)
+[![Codewars](https://www.codewars.com/users/pollodrax/badges/micro)](https://www.codewars.com/users/pollodrax)-->
 
 ![Metrics](./github-metrics.svg)
 
